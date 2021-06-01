@@ -12,7 +12,7 @@ stephsorandom/stephsorandom is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👀  I’m interested in : Hiking mountains 🏔, Learning new technologies, cats doing funny things 🤷🏻‍♀️  
+- 👀  I’m interested in : Hiking mountains 🏔, Learning new technologies, cats doing funny things 🐱 
 - 📚  I’m currently learning : Honing my JavaScript & entry levels of AWS & TypeScript
 - 📫  How to reach me :
   LinkedIn - https://www.linkedin.com/in/stephanie--mitchell/ <br/>
