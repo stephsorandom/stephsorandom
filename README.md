@@ -1,4 +1,4 @@
-# Knock knock...who's there? 👋
+# Hi there! 👋
 
 { <br/>
  "firstName": "Stephanie", <br/>
@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 - 📚  I’m currently learning : Honing my JavaScript & entry levels of AWS & Python 🐍
 - 📫  How to reach me :
   LinkedIn - https://www.linkedin.com/in/stephanie--mitchell/ <br/>
-  Email - stephsorandom@gmail.com
+  Email - stephmitch023@gmail.com
