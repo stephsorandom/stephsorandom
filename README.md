@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👀  I’m interested in : Hiking mountains 🏔, Learning new technologies, cats doing funny things 🐱 
-- 📚  I’m currently learning : Honing my JavaScript & entry levels of AWS 
+- 📚  I’m currently learning : Honing my JavaScript & React skills 👩🏻‍💻
 - 📫  How to reach me :
   LinkedIn - https://www.linkedin.com/in/stephanie--mitchell/ <br/>
   Email - stephmitch023@gmail.com
