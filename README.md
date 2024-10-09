@@ -3,7 +3,7 @@
 { <br/>
  "firstName": "Stephanie", <br/>
  "lastName": "Mitchell", <br/>
- "role": "Software Developer", <br/>
+ "role": "Data Analyst", <br/>
  "pronouns": "She/Her/Hers" <br/>
 }
 
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👀  I’m interested in : Hiking mountains 🏔, Learning new technologies, cats doing funny things 🐱 
-- 📚  I’m currently learning : Honing my JavaScript & React skills 👩🏻‍💻
+- 📚  I’m currently learning : Honing my SQL & Analytical skills 👩🏻‍💻
 - 📫  How to reach me :
   LinkedIn - https://www.linkedin.com/in/stephanie--mitchell/ <br/>
   Email - stephmitch023@gmail.com
